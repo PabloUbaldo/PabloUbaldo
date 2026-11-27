@@ -31,7 +31,10 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/PabloUbaldo/count.svg?" alt="Profile Counter" />
+  >!  
+    <img align="left" src="https://profile-counter.glitch.me/PabloUbaldo/count.svg?" alt="Profile Counter" />
+!>  
+
 
 ###
 
